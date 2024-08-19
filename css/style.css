@@ -2252,3 +2252,23 @@ html body .top-header.header-2 .navbutton {
         font-size: 30px;
     }
 }
+
+footer a {
+    color: #e2494f;
+
+}
+
+footer a:hover {
+    color: #fff;
+}
+
+.footerList {
+
+    display: flex;
+
+    font-size: 14px;
+}
+
+.footerList li {
+    margin-right: 12px;
+}
